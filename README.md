@@ -58,6 +58,8 @@ Technologies used in the project:
 
 ![Personel](https://user-images.githubusercontent.com/124188116/230732265-eda8e38e-a95e-4813-950f-de66de2f3d4f.png)
 
-![Rezervasyon](https://user-images.![Vstudio](https://user-images.githubusercontent.com/124188116/230732275-c478eaea-09c4-4666-8f62-d6c9f2a314b3.png)
-githubusercontent.com/124188116/230732270-7186c80a-8182-490d-a858-58dbafc67930.png)
+-------- Visual Studio --------
+![Vstudio](https://user-images.githubusercontent.com/124188116/230732349-4dad6267-4a1a-4253-ae19-9917b2ac5b13.png)
+
+
 
