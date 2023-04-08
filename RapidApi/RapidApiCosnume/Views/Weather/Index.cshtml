@@ -1,0 +1,32 @@
+﻿@model List<WeatherViewModel> //Getirmek istediğimiz değerler rates içinde.
+
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+    <br /> <br />
+    <table class="table table-bordered">
+        <tr>
+            <th>Sıcaklık</th>
+            <th>Aqi</th>
+            <th>Şehir Adı</th>
+            <th>Cloud</th>
+            <th>Ülke Kodu</th>
+            <th>Zaman</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.app_temp</td>
+                <td>@item.aqi</td>
+                <td>@item.city_name</td>
+                <td>@item.clouds</td>
+                <td>@item.country_code</td>
+                <td>@item.datetime</td>
+            </tr>
+        }
+    </table>
+</div>

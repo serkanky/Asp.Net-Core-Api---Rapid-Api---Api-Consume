@@ -1,0 +1,14 @@
+
+YAPILACAKLAR - ADIMLAR
+
+ILK ADIM API TESTÝ VE SWAGGER  ++YAPILDI
+ 
+TEMPLATE EKLENMESÝ            ++YAPILDI
+
+REGISTER - LOGIN              ++YAPILDI
+
+
+Onay Bekliyor                
+Onaylandý
+Ýptal Edildi
+Bekletiliyor

@@ -1,0 +1,33 @@
+﻿@model List<ApiAirportViewModel>
+
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+    <br /> <br />
+    <table class="table table-bordered">
+        <tr>
+            <th>#</th>
+            <th>Yer Kimliği</th>
+            <th>Yer Adı</th>
+            <th>Ülke Kimliği</th>
+            <th>Iata Kodu</th>
+            <th>Şehir Adı</th>
+            <th>Detay</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.PlaceId</td>
+                <td>@item.PlaceName</td>
+                <td>@item.CountryId</td>
+                <td>@item.IataCode</td>
+                <td>@item.CityName</td>
+                <td>@item.ResultingPhrase</td>
+            </tr>
+        }
+    </table>
+</div>

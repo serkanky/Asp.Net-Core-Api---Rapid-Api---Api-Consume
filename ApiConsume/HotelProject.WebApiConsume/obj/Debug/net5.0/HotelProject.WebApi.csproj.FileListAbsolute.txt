@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\ApıProject\MyApiProject\ApiConsume\HotelProject.WebApiConsume\obj\Debug\net5.0\HotelProject.WebApi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ApıProject\MyApiProject\ApiConsume\HotelProject.WebApiConsume\obj\Debug\net5.0\HotelProject.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ApıProject\MyApiProject\ApiConsume\HotelProject.WebApiConsume\obj\Debug\net5.0\HotelProject.WebApi.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ApıProject\MyApiProject\ApiConsume\HotelProject.WebApiConsume\obj\Debug\net5.0\HotelProject.WebApi.AssemblyInfo.cs
+C:\Users\PC\Desktop\ApıProject\MyApiProject\ApiConsume\HotelProject.WebApiConsume\obj\Debug\net5.0\HotelProject.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ApıProject\MyApiProject\ApiConsume\HotelProject.WebApiConsume\obj\Debug\net5.0\HotelProject.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\ApıProject\MyApiProject\ApiConsume\HotelProject.WebApiConsume\obj\Debug\net5.0\HotelProject.WebApi.MvcApplicationPartsAssemblyInfo.cache
