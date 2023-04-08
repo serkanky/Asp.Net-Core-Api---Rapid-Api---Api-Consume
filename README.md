@@ -56,6 +56,8 @@ Technologies used in the project:
 --------ADMIN PAGE--------
 ![Mailgonderme](https://user-images.githubusercontent.com/124188116/230732260-3a78eb92-a4db-49df-8b0e-0223cd0c6d08.png)
 
+![1680971835705](https://user-images.githubusercontent.com/124188116/230733848-955f3bb0-7bd5-48a0-a1c2-9f9816f1b4c9.jpeg)
+
 ![Personel](https://user-images.githubusercontent.com/124188116/230732265-eda8e38e-a95e-4813-950f-de66de2f3d4f.png)
 
 -------- Visual Studio --------
